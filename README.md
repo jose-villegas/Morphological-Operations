@@ -3,8 +3,7 @@ Image Loader / Edition - Morphological-Operations
 
 Image loader and editor using C# and image loading functions provided by Windows System, UI using Windows Forms.
 
-Morphological Operations:
-- Works on Greyscale or Threshold (127)
+Morphological Operations: Works on Greyscale or Threshold (127)
 * Dilatation ![Imgur](http://i.imgur.com/DA8kIMd.png)
 * Erosion ![Imgur](http://i.imgur.com/d4XF84j.png)
 * Opening ![Imgur](http://i.imgur.com/e6zYCKu.png)
