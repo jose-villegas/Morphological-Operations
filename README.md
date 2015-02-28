@@ -1,7 +1,7 @@
 Image Loader / Edition - Morphological-Operations
 ========================
 
-Image loader and editor using C# and image loading functions provided by Windows, UI using Windows Forms.
+Image loader and editor using C# and image loading functions provided by Windows, UI using Windows Forms. Project for college
 
 Morphological Operations: Works on Greyscale or Threshold (127) with customizable structuring element (default square)
 * Dilatation ![Imgur](http://i.imgur.com/DA8kIMd.png)
